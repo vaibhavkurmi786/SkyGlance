@@ -1,0 +1,22 @@
+Hello friends, I am Vaibhav Kurmi.
+
+This i a project made by me named as SKYGLANCE
+
+To run the project there are few steps you need to follow:
+
+1. So first you have to go to Google and search over there Vertrigo server. 
+   Direct link to download the softwawre------>	https://vertrigoserv.en.softonic.com/
+
+2. Once the download card is completed, then install the software.(Let it install on the default location i.e in C drive)
+
+3. After the installation of the software, extract the rar file in the any where you would like to extract it but make sure to move that extaracted folder to this specific loaction
+
+open C ---> Program Files(x86) ---> VertrigoServ ---> www ---> paste that extracted folder over here.(voila🥳)
+
+4. Now open the software(Vertrigo) as administrator.
+
+5. A dialouge box will open just click hide the windown and start the server.
+
+6. Now open any browser present on you system and in the URL section type the following:  localhost/FinalProject/View/hom.php
+
+7. BOOM💥💥  you are on the website.
